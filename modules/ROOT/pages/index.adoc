@@ -1,6 +1,13 @@
-= An Example Quick Course
+= Data Analysis and Visualization with Red{nbsp}Hat OpenShift AI
 :navtitle: Home
 
-== Introduction
+This courses introduces you to the basics of data exploration, analysis, and visualization by using RHOAI and the most popular libraries of the data science Python ecosystem.
 
-This is an example quick course demonstrating the usage of Antora for authoring and publishing quick courses.
+== Objectives
+
+* Import, clean, filter and transform data from various sources.
+// (Amazon S3 and other object storage, database, and local cluster persistent volume storage).
+// [Noel] - could we add a database here to show how to pull from a db as part of a notebook
+* Perform data analysis using appropriate Python libraries and data science algorithms.
+* Visualize and plot graphical data in Jupyter notebooks.
+* Provide insights, trends and predictions from the analysis of data.
